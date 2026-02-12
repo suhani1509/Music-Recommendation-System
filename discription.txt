@@ -1,0 +1,6 @@
+Semantic Matching: Uses TF-IDF or Word Embeddings to understand the context of lyrics.
+
+High Performance: Powered by FastAPI for asynchronous, sub-second recommendation delivery.
+
+Scalable API: Ready-to-use endpoints for searching and retrieving recommendations.
+
