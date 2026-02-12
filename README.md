@@ -1,0 +1,1 @@
+It is a RESTful API built with FastAPI that suggests songs based on their lyrical content. Instead of relying on traditional genre or artist metadata, this system uses Natural Language Processing (NLP) to find songs that share similar themes, moods, and storytelling.
