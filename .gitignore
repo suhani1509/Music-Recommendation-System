@@ -1,0 +1,23 @@
+# --- Large Data Files (Ignore these to avoid GitHub errors) ---
+*.csv
+*.pkl
+*.data
+*.list
+
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.venv/
+env/
+venv/
+.python-version
+
+# --- IDE Specific ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Project Specific Exceptions ---
+# If you want to track a small .csv later, add !filename.csv below
